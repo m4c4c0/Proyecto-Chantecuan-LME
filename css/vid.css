@@ -864,14 +864,3 @@ div.galeria {
     margin-top: auto;
   }
   
-  .videoWrapper {
-    padding-bottom: 0.5%; /* 16:9 */
-}
-  .videoWrapper iframe {
-        width: 100%;
-        height: auto;
-        max-width:600px;
-}
-  .videoWrapper iframe {
-    width: 100%;
-}
