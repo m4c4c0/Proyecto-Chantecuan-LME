@@ -872,3 +872,10 @@ div.galeria {
   .videoWrapper iframe {
     width: 100%;
 }
+
+  .horarios{
+      text-align: center;
+      background: #1a1e21;
+      color: #bebed2;
+      font-weight: bold;
+  }
