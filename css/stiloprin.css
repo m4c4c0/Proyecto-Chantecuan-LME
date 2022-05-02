@@ -675,7 +675,7 @@ button{
   font-family: Century Gothic;
   border:2px solid #78788c;
   background-color: #2B2B2B;
-  color:#5a5a6e;
+  color:white;
   cursor:pointer;
   transition:all .3s;
   border-radius: 4px 4px;
@@ -683,7 +683,7 @@ button{
 }
 button:hover{
   background: #ffc800;
-  color:rgb(58, 58, 58)
+  color:rgb(58, 58, 58);
 }
 
 a{
