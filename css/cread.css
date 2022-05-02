@@ -879,3 +879,7 @@ div.galeria {
       color: #bebed2;
       font-weight: bold;
   }
+
+a{
+  text-decoration:none;
+}
