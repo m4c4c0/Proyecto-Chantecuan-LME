@@ -670,9 +670,10 @@ p{
   border-color: #ffc800;
   border-radius: 5px 5px;
   cursor:pointer;transition:all .3s;
-  background-color: #3E3E3E;
+  background-color: #212529;
 }
 
 .fcc-btn:hover {
-   background-color: #ffc800;
+  background-color: #ffc800;
+  color: #3E3E3E;
 }
