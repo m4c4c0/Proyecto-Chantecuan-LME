@@ -39,6 +39,10 @@ hr {
   opacity: 0.25;
 }
 
+h1{
+  text-align: center;
+}
+
 hr:not([size]) {
   height: 1px;
 }
