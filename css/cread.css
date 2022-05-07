@@ -881,7 +881,8 @@ div.galeria {
       text-align: center;
       background: #1a1e21;
       color: #bebed2;
-      font-weight: bold;
+    font-weight: bold;
+    border-radius: 5px 5px;
   }
 
 a{
