@@ -887,3 +887,85 @@ div.galeria {
 a{
   text-decoration:none;
 }
+
+/*Para la pag de actividades*/
+.g-0{
+  --bs-gutter-x: 0;
+}
+
+.g-0{
+  --bs-gutter-y: 0;
+}
+
+.col-lg-6 {
+  flex: 0 0 auto;
+  width: 50%;
+}
+
+.order-lg-2 {
+  order: 2;
+}
+
+.order-lg-1 {
+  order: 1 ;
+}
+
+.g-0{
+  --bs-gutter-x: 0;
+}
+
+.g-0{
+  --bs-gutter-y: 0;
+}
+
+.offset-lg-0 {
+  margin-left: 0;
+}
+
+.g-lg-0,
+.gy-lg-0 {
+    --bs-gutter-y: 0;
+  }
+
+  .mb-lg-0 {
+    margin-bottom: 0 ;
+  }
+
+  :root {
+    --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+    --bs-body-font-family: Lato, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  }
+
+  .mb-0 {
+    margin-bottom: 0 ;
+  }
+
+  .lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin: 20px 10px;
+  }
+
+  .showcase .showcase-text {
+    padding: 3rem;
+  }
+  .showcase .showcase-img {
+    min-height: 30rem;
+    background-size: cover;
+  }
+  @media (min-width: 768px) {
+    .showcase .showcase-text {
+      padding: 7rem;
+    }
+  }
+
+  .my-auto {
+    margin-top: auto ;
+    margin-bottom: auto;
+  }
+
+  .act{
+    margin: 20px 10px;
+  }
