@@ -1014,7 +1014,14 @@ a{
 	left: 0;
 	padding: 20px;
 	color: #fff;
-	background: #3498db;
+  cursor:pointer;transition:all .6s;
+    background-color: #212529;
+  border-radius: 10px 0px;
+}
+
+.grid figcaption:hover{
+  background-color: #ffc800;
+    color: #3E3E3E;
 }
 
 
