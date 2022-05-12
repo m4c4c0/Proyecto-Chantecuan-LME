@@ -890,7 +890,7 @@ div.galeria {
     height: auto;
   }
 
-  .col-lg-4, .col-lg-8{
+  .col-lg-40, .col-lg-8{
     position: relative;
     min-height: 1px;
     padding-right: 15px;
@@ -898,14 +898,14 @@ div.galeria {
   }
 
   @media (min-width: 1200px) {
-    .col-lg-4, .col-lg-8{
+    .col-lg-40, .col-lg-8{
       float: left;
     }
     
     .col-lg-8 {
       width: 66.66666666666666%;
     }
-    .col-lg-4 {
+    .col-lg-40 {
       width: 33.33333333333333%;
     }
   }
