@@ -825,21 +825,24 @@ div.galeria {
   background: #1a1e21;
   border-radius: 6px 6px;
   color: rgb(230, 230, 230);
+	transition:all .6s;
   }
   div.galeria:hover {
     background: #ffc800;
   border: 1px solid #777;
   border-radius: 6px 6px;
   color: rgb(48, 48, 48);
-    transition:all .3s;
+    transition:all .6s;
   }
   div.galeria img {
   width: 100%;
   height: 210px;
+	  transition:all .6s;
   }
   div.desc {
   padding: 15px;
   text-align: center;
+	  transition:all .6s;
   }
   * {
   box-sizing: border-box;
