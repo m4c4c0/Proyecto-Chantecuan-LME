@@ -1027,6 +1027,29 @@ a{
     color: #3E3E3E;
 }
 
+ .img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+
+ .col-md-4{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  @media (min-width: 1200px) {
+    .col-md-4{
+      float: left;
+    }
+    
+    .col-md-4 {
+      width: 33.33333333333333%;
+    }
+  }
+
 
 
 
