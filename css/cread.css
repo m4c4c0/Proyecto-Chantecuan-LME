@@ -831,6 +831,7 @@ div.galeria {
   border: 1px solid #777;
   border-radius: 6px 6px;
   color: rgb(48, 48, 48);
+    transition:all .3s;
   }
   div.galeria img {
   width: 100%;
